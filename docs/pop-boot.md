@@ -1,6 +1,6 @@
 ---
-title: Install the Pop!_theme
-description: How to install the Pop!_theme on other Linux distributions.
+title: Understanding Pop!_Boot
+description: Pop!_OS uses a new boot architecture. Here's how it works.
 ---
 
 ## Understanding Pop Boot
